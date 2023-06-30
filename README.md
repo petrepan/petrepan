@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Peter here, a Software Engineer and Javascript developer with 4+ years of experience building modern web applications, delivering engaging and visually compelling applications with user-friendly interactions that drive business growth and improve UX.
 <!--
 **petrepan/petrepan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
